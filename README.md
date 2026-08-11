@@ -1,6 +1,29 @@
+<div align="center">
+
 # 👋 Hi, I'm Riteeka Singh
 
 ### 💻 Frontend Developer • Full-Stack Learner • AI & Web Enthusiast
+
+<p>
+  <a href="https://github.com/singhriteeka">
+    <img src="https://img.shields.io/github/followers/singhriteeka?label=Followers&style=for-the-badge&logo=github&color=181717" alt="GitHub followers" />
+  </a>
+  <a href="https://github.com/singhriteeka?tab=repositories">
+    <img src="https://img.shields.io/github/stars/singhriteeka?affiliations=OWNER&style=for-the-badge&logo=github&color=181717" alt="GitHub stars" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=singhriteeka&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile views" />
+</p>
+
+<p>
+  <a href="https://github.com/singhriteeka">
+    <img src="https://img.shields.io/badge/GitHub-singingriteeka-181717?style=flat-square&logo=github" alt="GitHub" />
+  </a>
+  <a href="https://riteeka-3d-portfolio-4gmy.arcada.app">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-7C3AED?style=flat-square&logo=google-chrome&logoColor=white" alt="Portfolio" />
+  </a>
+</p>
+
+</div>
 
 ---
 
@@ -42,6 +65,8 @@ https://github.com/singhriteeka/Al-Invoice-Intelligence-System
 
 ## 🌱 Currently Learning
 
+<div align="center">
+
 | Technology      | Focus                                |
 | --------------- | ------------------------------------ |
 | 🟢 Node.js      | Backend development                  |
@@ -51,128 +76,123 @@ https://github.com/singhriteeka/Al-Invoice-Intelligence-System
 | 🎨 Tailwind CSS | Modern responsive UI                 |
 | 🔐 Git & GitHub | Version control & collaboration      |
 
+</div>
+
 ---
 
 ## 🛠️ Tech Stack
 
 ### 💻 Languages
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,js,python,java,php" height="45" alt="Languages"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,java,php" alt="Languages" />
 </p>
 
 ### 🎨 Frontend
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,vue" height="45" alt="Frontend"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,vue" alt="Frontend technologies" />
 </p>
 
 ### ⚙️ Backend & Databases
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgresql" height="45" alt="Backend and Databases"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgresql" alt="Backend and databases" />
 </p>
 
 ### 🔧 Tools
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" height="45" alt="Tools"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" alt="Development tools" />
 </p>
 
 ---
 
 # 📊 GitHub Analytics
 
-<p align="center">
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=singhriteeka&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=default" alt="GitHub Analytics"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=singhriteeka&layout=compact&langs_count=8&hide_border=true&theme=default" alt="Top Languages"/>
-</p>
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=singhriteeka&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&theme=tokyonight" alt="GitHub statistics" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=singhriteeka&layout=compact&hide_border=true&langs_count=8&theme=tokyonight" alt="Top languages" />
+
+</div>
 
 ---
 
 ## 🔥 Contribution Streak
 
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=singhriteeka&hide_border=true&theme=default" alt="Contribution Streak"/>
-</p>
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=singhriteeka&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+
+</div>
 
 ---
 
 ## 📈 Contribution Activity
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=singhriteeka&theme=github-compact&hide_border=true&area=true&custom_title=Riteeka's%20Contribution%20Activity" alt="Contribution Activity"/>
-</p>
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=singhriteeka&theme=tokyo-night&hide_border=true&area=true&custom_title=Riteeka's%20Contribution%20Graph" alt="GitHub contribution graph" />
+
+</div>
 
 ---
 
 ## 🗂️ GitHub Profile Summary
 
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=singhriteeka&theme=default" alt="GitHub Profile Summary"/>
-</p>
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=singhriteeka&theme=tokyonight" alt="GitHub profile summary" />
+
+</div>
 
 ---
 
 ## 📦 GitHub Overview
 
-<p align="center">
+<div align="center">
 
-<img src="https://img.shields.io/github/repos/singhriteeka?style=for-the-badge&logo=github&label=Repositories&color=181717" alt="Repositories"/>
+<img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/singhriteeka&query=$.public_repos&label=Public%20Repositories&style=for-the-badge&logo=github&color=181717" alt="Public repositories" />
 
-<img src="https://img.shields.io/github/followers/singhriteeka?style=for-the-badge&logo=github&label=Followers&color=7C3AED" alt="Followers"/>
+<img src="https://img.shields.io/github/followers/singhriteeka?label=Followers&style=for-the-badge&logo=github&color=7C3AED" alt="Followers" />
 
-<img src="https://img.shields.io/github/stars/singhriteeka?style=for-the-badge&logo=github&label=Stars&color=F59E0B" alt="Stars"/>
+<img src="https://img.shields.io/github/stars/singhriteeka?affiliations=OWNER&style=for-the-badge&logo=github&color=F59E0B" alt="Stars" />
 
-</p>
+</div>
 
 ---
 
 # 🌟 Featured Projects
 
-<p align="center">
+<div align="center">
 
 <a href="https://github.com/singhriteeka/Al-Invoice-Intelligence-System">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=singhriteeka&repo=Al-Invoice-Intelligence-System&hide_border=true&theme=default" alt="AI Invoice Intelligence System"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=singhriteeka&repo=Al-Invoice-Intelligence-System&theme=tokyonight&hide_border=true" alt="AI Invoice Intelligence System" />
 </a>
 
 <a href="https://github.com/singhriteeka/E-learning-platform">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=singhriteeka&repo=E-learning-platform&hide_border=true&theme=default" alt="E-learning Platform"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=singhriteeka&repo=E-learning-platform&theme=tokyonight&hide_border=true" alt="E-learning Platform" />
 </a>
 
-</p>
+</div>
 
-<p align="center">
+<br />
+
+<div align="center">
 
 <a href="https://github.com/singhriteeka/Makeup">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=singhriteeka&repo=Makeup&hide_border=true&theme=default" alt="Makeup"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=singhriteeka&repo=Makeup&theme=tokyonight&hide_border=true" alt="Makeup project" />
 </a>
 
-</p>
+<a href="https://github.com/singhriteeka">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=singhriteeka&repo=School-Management-System&theme=tokyonight&hide_border=true" alt="School Management System" />
+</a>
 
----
+</div>
 
-## 📚 Top Languages By Repository
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=singhriteeka&layout=donut&langs_count=10&hide_border=true&theme=default" alt="Top Languages by Repository"/>
-
-</p>
-
-> **Note:** GitHub Readme Stats calculates this from language usage in your repositories. It does not represent an exact count of repositories per language.
-
----
-
-## 📝 Top Commit Activity
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=singhriteeka&show_icons=true&include_all_commits=true&hide_title=true&hide_border=true&theme=default" alt="Commit Activity"/>
-
-</p>
-
-> Your detailed commit-by-repository ranking requires GitHub API data rather than the standard stats card.
+> **Note:** Replace `School-Management-System` above if your actual repository has a different name.
 
 ---
 
@@ -192,26 +212,36 @@ https://github.com/singhriteeka/Al-Invoice-Intelligence-System
 
 ## 💡 My Development Philosophy
 
+<div align="center">
+
 ### "If we're building it, let's try to build it properly." 🔥
 
 **Clean Code • Good Architecture • Security • Scalability • User Experience**
+
+</div>
 
 ---
 
 ## 🤝 Let's Connect
 
-<p align="left">
+<div align="center">
 
 <a href="https://github.com/singhriteeka">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 
 <a href="https://riteeka-3d-portfolio-4gmy.arcada.app">
-<img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+  <img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
 </a>
 
-</p>
+</div>
 
 ---
 
+<div align="center">
+
 ### 💻 Keep Building. Keep Learning. Keep Improving. 🚀
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer" />
+
+</div>

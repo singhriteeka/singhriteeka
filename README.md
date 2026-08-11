@@ -88,6 +88,12 @@ I enjoy turning ideas into real products — from frontend interfaces and dashbo
 </p>
 
 ---
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
 
 # 📊 GitHub Analytics
 

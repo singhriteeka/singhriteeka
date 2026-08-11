@@ -1,37 +1,247 @@
-<h1 align="center">Hi 👋, I'm Riteeka Singh</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=singhriteeka&label=Profile%20views&color=0e75b6&style=flat" alt="singhriteeka" /> </p>
+# 👋 Hi, I'm Riteeka Singh
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=singhriteeka" alt="singhriteeka" /></a> </p>
+### 💻 Frontend Developer • Full-Stack Learner • AI & Web Enthusiast
 
-- 🔭 I’m currently working on [Al-Invoice-Intelligence-System](https://github.com/singhriteeka/Al-Invoice-Intelligence-System)
-
-- 🌱 I’m currently learning **Node.js,Express.js,MongoDB**
-
-- 👯 I’m looking to collaborate on [Makeup](https://github.com/singhriteeka/Makeup)
-
-- 🤝 I’m looking for help with [E-learning platform](https://github.com/singhriteeka/E-learning-platform)
-
-- 👨‍💻 All of my projects are available at [https://riteeka-3d-portfolio-4gmy.arcada.app](https://riteeka-3d-portfolio-4gmy.arcada.app)
-
-- 💬 Ask me about **Html,Css and Js.**
-
-- 📫 How to reach me **singhriteeka07@gmail.com**
-
-- 📄 Know about my experiences [RITEEKA SINGH-PROFILE.xlsx](RITEEKA SINGH-PROFILE.xlsx)
-
-- ⚡ Fun fact **“If we’re building it, let’s try to build it properly.” 🔥**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p>
+  <a href="https://github.com/singhriteeka">
+    <img src="https://img.shields.io/github/followers/singhriteeka?label=Followers&style=for-the-badge&logo=github&color=181717" alt="GitHub followers" />
+  </a>
+  <a href="https://github.com/singhriteeka?tab=repositories">
+    <img src="https://img.shields.io/github/stars/singhriteeka?affiliations=OWNER&style=for-the-badge&logo=github&color=181717" alt="GitHub stars" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=singhriteeka&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile views" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+<p>
+  <a href="https://github.com/singhriteeka">
+    <img src="https://img.shields.io/badge/GitHub-singingriteeka-181717?style=flat-square&logo=github" alt="GitHub" />
+  </a>
+  <a href="https://riteeka-3d-portfolio-4gmy.arcada.app">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-7C3AED?style=flat-square&logo=google-chrome&logoColor=white" alt="Portfolio" />
+  </a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=singhriteeka&show_icons=true&locale=en&layout=compact" alt="singhriteeka" /></p>
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=singhriteeka&show_icons=true&locale=en" alt="singhriteeka" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=singhriteeka&" alt="singhriteeka" /></p>
+## 🧑‍💻 About Me
+
+I'm a developer focused on building **clean, responsive, practical, and scalable web applications**.
+
+I enjoy turning ideas into real products — from frontend interfaces and dashboards to full-stack systems and AI-powered applications.
+
+```text
+🌱 Currently learning     → Node.js • Express.js • MongoDB
+💻 Main focus             → Frontend & Full-Stack Development
+🤖 Exploring              → AI-powered applications
+🛠️ Building               → Real-world web projects
+🎯 Goal                   → Write better code and build better products
+🔥 Philosophy             → "If we're building it, let's try to build it properly."
+```
+
+---
+
+## 🚀 What I'm Working On
+
+### 🧾 AI Invoice Intelligence System
+
+An AI-powered application focused on processing and analyzing invoice data.
+
+**Exploring:**
+
+* AI-assisted document processing
+* Invoice data extraction
+* Backend APIs
+* Database integration
+* Intelligent automation
+
+🔗 **Repository:**
+https://github.com/singhriteeka/Al-Invoice-Intelligence-System
+
+---
+
+## 🌱 Currently Learning
+
+<div align="center">
+
+| Technology      | Focus                                |
+| --------------- | ------------------------------------ |
+| 🟢 Node.js      | Backend development                  |
+| ⚡ Express.js    | REST APIs & server architecture      |
+| 🍃 MongoDB      | NoSQL database & data modeling       |
+| ⚛️ React        | Component-based frontend development |
+| 🎨 Tailwind CSS | Modern responsive UI                 |
+| 🔐 Git & GitHub | Version control & collaboration      |
+
+</div>
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Languages
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,java,php" alt="Languages" />
+</p>
+
+### 🎨 Frontend
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,vue" alt="Frontend technologies" />
+</p>
+
+### ⚙️ Backend & Databases
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgresql" alt="Backend and databases" />
+</p>
+
+### 🔧 Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" alt="Development tools" />
+</p>
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=singhriteeka&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&theme=tokyonight" alt="GitHub statistics" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=singhriteeka&layout=compact&hide_border=true&langs_count=8&theme=tokyonight" alt="Top languages" />
+
+</div>
+
+---
+
+## 🔥 Contribution Streak
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=singhriteeka&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=singhriteeka&theme=tokyo-night&hide_border=true&area=true&custom_title=Riteeka's%20Contribution%20Graph" alt="GitHub contribution graph" />
+
+</div>
+
+---
+
+## 🗂️ GitHub Profile Summary
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=singhriteeka&theme=tokyonight" alt="GitHub profile summary" />
+
+</div>
+
+---
+
+## 📦 GitHub Overview
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/singhriteeka&query=$.public_repos&label=Public%20Repositories&style=for-the-badge&logo=github&color=181717" alt="Public repositories" />
+
+<img src="https://img.shields.io/github/followers/singhriteeka?label=Followers&style=for-the-badge&logo=github&color=7C3AED" alt="Followers" />
+
+<img src="https://img.shields.io/github/stars/singhriteeka?affiliations=OWNER&style=for-the-badge&logo=github&color=F59E0B" alt="Stars" />
+
+</div>
+
+---
+
+# 🌟 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/singhriteeka/Al-Invoice-Intelligence-System">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=singhriteeka&repo=Al-Invoice-Intelligence-System&theme=tokyonight&hide_border=true" alt="AI Invoice Intelligence System" />
+</a>
+
+<a href="https://github.com/singhriteeka/E-learning-platform">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=singhriteeka&repo=E-learning-platform&theme=tokyonight&hide_border=true" alt="E-learning Platform" />
+</a>
+
+</div>
+
+<br />
+
+<div align="center">
+
+<a href="https://github.com/singhriteeka/Makeup">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=singhriteeka&repo=Makeup&theme=tokyonight&hide_border=true" alt="Makeup project" />
+</a>
+
+<a href="https://github.com/singhriteeka">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=singhriteeka&repo=School-Management-System&theme=tokyonight&hide_border=true" alt="School Management System" />
+</a>
+
+</div>
+
+> **Note:** Replace `School-Management-System` above if your actual repository has a different name.
+
+---
+
+## 🎯 What I Like Building
+
+```text
+▸ Responsive web applications
+▸ Modern frontend interfaces
+▸ Full-stack applications
+▸ AI-powered productivity tools
+▸ Business automation systems
+▸ Database-driven applications
+▸ Developer-focused tools
+```
+
+---
+
+## 💡 My Development Philosophy
+
+<div align="center">
+
+### "If we're building it, let's try to build it properly." 🔥
+
+**Clean Code • Good Architecture • Security • Scalability • User Experience**
+
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+<a href="https://github.com/singhriteeka">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+
+<a href="https://riteeka-3d-portfolio-4gmy.arcada.app">
+  <img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💻 Keep Building. Keep Learning. Keep Improving. 🚀
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer" />
+
+</div>

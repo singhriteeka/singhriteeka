@@ -1,21 +1,6 @@
-<div align="center">
-
 # 👋 Hi, I'm Riteeka Singh
 
 ### 💻 Frontend Developer • Full-Stack Learner • AI & Web Enthusiast
-
-<p>
-  <a href="https://github.com/singhriteeka">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://riteeka-3d-portfolio-4gmy.arcada.app">
-    <img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
-  </a>
-</p>
-
-<img src="https://komarev.com/ghpvc/?username=singhriteeka&label=Profile%20Views&color=7C3AED&style=flat" alt="Profile views"/>
-
-</div>
 
 ---
 
@@ -44,114 +29,94 @@ An AI-powered application focused on processing and analyzing invoice data.
 
 **Exploring:**
 
-* 🤖 AI-assisted document processing
-* 📄 Invoice data extraction
-* ⚙️ Backend APIs
-* 🗄️ Database integration
-* 🔄 Intelligent automation
+* AI-assisted document processing
+* Invoice data extraction
+* Backend APIs
+* Database integration
+* Intelligent automation
 
-<p>
-  <a href="https://github.com/singhriteeka/Al-Invoice-Intelligence-System">
-    View Repository →
-  </a>
-</p>
+🔗 **Repository:**
+https://github.com/singhriteeka/Al-Invoice-Intelligence-System
 
 ---
 
 ## 🌱 Currently Learning
 
-|      Technology     | Focus                                |
-| :-----------------: | ------------------------------------ |
-|    🟢 **Node.js**   | Backend development                  |
-|   ⚡ **Express.js**  | REST APIs & server architecture      |
-|    🍃 **MongoDB**   | NoSQL database & data modeling       |
-|     ⚛️ **React**    | Component-based frontend development |
-| 🎨 **Tailwind CSS** | Modern responsive UI                 |
-| 🔐 **Git & GitHub** | Version control & collaboration      |
+| Technology      | Focus                                |
+| --------------- | ------------------------------------ |
+| 🟢 Node.js      | Backend development                  |
+| ⚡ Express.js    | REST APIs & server architecture      |
+| 🍃 MongoDB      | NoSQL database & data modeling       |
+| ⚛️ React        | Component-based frontend development |
+| 🎨 Tailwind CSS | Modern responsive UI                 |
+| 🔐 Git & GitHub | Version control & collaboration      |
 
 ---
 
-# 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 ### 💻 Languages
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,java,php" alt="Languages"/>
+<p align="left">
+<img src="https://skillicons.dev/icons?i=html,css,js,python,java,php" height="45" alt="Languages"/>
 </p>
 
 ### 🎨 Frontend
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,vue" alt="Frontend"/>
+<p align="left">
+<img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,vue" height="45" alt="Frontend"/>
 </p>
 
 ### ⚙️ Backend & Databases
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgresql" alt="Backend and databases"/>
+<p align="left">
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgresql" height="45" alt="Backend and Databases"/>
 </p>
 
 ### 🔧 Tools
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" alt="Development tools"/>
+<p align="left">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" height="45" alt="Tools"/>
 </p>
 
 ---
 
 # 📊 GitHub Analytics
 
-<div align="center">
-
-<a href="https://github.com/singhriteeka">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=singhriteeka&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&hide_border=true&theme=default" alt="GitHub Statistics"/>
-
-</a>
-
-<a href="https://github.com/singhriteeka">
-
+<p align="center">
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=singhriteeka&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=default" alt="GitHub Analytics"/>
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=singhriteeka&layout=compact&langs_count=8&hide_border=true&theme=default" alt="Top Languages"/>
-
-</a>
-
-</div>
+</p>
 
 ---
 
 ## 🔥 Contribution Streak
 
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=singhriteeka&theme=default&hide_border=true" alt="GitHub Contribution Streak"/>
-
-</div>
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=singhriteeka&hide_border=true&theme=default" alt="Contribution Streak"/>
+</p>
 
 ---
 
 ## 📈 Contribution Activity
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=singhriteeka&theme=github-compact&hide_border=true&area=true&custom_title=Riteeka's%20Contribution%20Activity" alt="Contribution Activity Graph"/>
-
-</div>
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=singhriteeka&theme=github-compact&hide_border=true&area=true&custom_title=Riteeka's%20Contribution%20Activity" alt="Contribution Activity"/>
+</p>
 
 ---
 
-## 📊 Contribution Overview
+## 🗂️ GitHub Profile Summary
 
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=singhriteeka&theme=default" alt="GitHub Profile Details"/>
-
-</div>
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=singhriteeka&theme=default" alt="GitHub Profile Summary"/>
+</p>
 
 ---
 
-# 📦 GitHub Overview
+## 📦 GitHub Overview
 
-<div align="center">
+<p align="center">
 
 <img src="https://img.shields.io/github/repos/singhriteeka?style=for-the-badge&logo=github&label=Repositories&color=181717" alt="Repositories"/>
 
@@ -159,88 +124,55 @@ An AI-powered application focused on processing and analyzing invoice data.
 
 <img src="https://img.shields.io/github/stars/singhriteeka?style=for-the-badge&logo=github&label=Stars&color=F59E0B" alt="Stars"/>
 
-</div>
-
----
-
-# 📝 Commit Activity
-
-<div align="center">
-
-<a href="https://github.com/singhriteeka?tab=overview">
-
-<img src="https://github-readme-stats.vercel.app/api?username=singhriteeka&show_icons=true&hide_title=true&hide_border=true&include_all_commits=true&count_private=true&theme=default" alt="Commit Activity"/>
-
-</a>
-
-</div>
-
-> **Note:** Repository-level commit ranking requires GitHub API data and cannot be accurately generated by the normal GitHub Stats card alone.
-
----
-
-# 📚 Top Languages
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=singhriteeka&layout=donut&langs_count=8&hide_border=true&theme=default" alt="Top Languages"/>
-
-</div>
-
-### Languages by Repository
-
-| Language   | Usage     |
-| :--------- | :-------- |
-| JavaScript | 🔵 Active |
-| HTML       | 🔵 Active |
-| CSS        | 🔵 Active |
-| Python     | 🟢 Active |
-| Java       | 🟢 Active |
-| PHP        | 🟢 Active |
-
-> This section should be generated from GitHub repository data if you want the exact repository count for every language.
+</p>
 
 ---
 
 # 🌟 Featured Projects
 
-<div align="center">
+<p align="center">
 
 <a href="https://github.com/singhriteeka/Al-Invoice-Intelligence-System">
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=singhriteeka&repo=Al-Invoice-Intelligence-System&theme=default&hide_border=true" alt="AI Invoice Intelligence System"/>
-
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=singhriteeka&repo=Al-Invoice-Intelligence-System&hide_border=true&theme=default" alt="AI Invoice Intelligence System"/>
 </a>
 
 <a href="https://github.com/singhriteeka/E-learning-platform">
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=singhriteeka&repo=E-learning-platform&theme=default&hide_border=true" alt="E-learning Platform"/>
-
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=singhriteeka&repo=E-learning-platform&hide_border=true&theme=default" alt="E-learning Platform"/>
 </a>
 
-</div>
+</p>
 
-<br>
-
-<div align="center">
+<p align="center">
 
 <a href="https://github.com/singhriteeka/Makeup">
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=singhriteeka&repo=Makeup&theme=default&hide_border=true" alt="Makeup Project"/>
-
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=singhriteeka&repo=Makeup&hide_border=true&theme=default" alt="Makeup"/>
 </a>
 
-</div>
+</p>
 
 ---
 
-# 🐍 Contribution Snake
+## 📚 Top Languages By Repository
 
-<div align="center">
+<p align="center">
 
-<img src="https://raw.githubusercontent.com/singhriteeka/singhriteeka/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=singhriteeka&layout=donut&langs_count=10&hide_border=true&theme=default" alt="Top Languages by Repository"/>
 
-</div>
+</p>
+
+> **Note:** GitHub Readme Stats calculates this from language usage in your repositories. It does not represent an exact count of repositories per language.
+
+---
+
+## 📝 Top Commit Activity
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=singhriteeka&show_icons=true&include_all_commits=true&hide_title=true&hide_border=true&theme=default" alt="Commit Activity"/>
+
+</p>
+
+> Your detailed commit-by-repository ranking requires GitHub API data rather than the standard stats card.
 
 ---
 
@@ -260,34 +192,26 @@ An AI-powered application focused on processing and analyzing invoice data.
 
 ## 💡 My Development Philosophy
 
-<div align="center">
-
 ### "If we're building it, let's try to build it properly." 🔥
 
 **Clean Code • Good Architecture • Security • Scalability • User Experience**
-
-</div>
 
 ---
 
 ## 🤝 Let's Connect
 
-<div align="center">
+<p align="left">
 
 <a href="https://github.com/singhriteeka">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
 <a href="https://riteeka-3d-portfolio-4gmy.arcada.app">
-  <img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+<img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
 </a>
 
-</div>
+</p>
 
 ---
 
-<div align="center">
-
 ### 💻 Keep Building. Keep Learning. Keep Improving. 🚀
-
-</div>

@@ -44,25 +44,6 @@ I enjoy turning ideas into real products — from frontend interfaces and dashbo
 
 ---
 
-## 🚀 What I'm Working On
-
-### 🧾 AI Invoice Intelligence System
-
-An AI-powered application focused on processing and analyzing invoice data.
-
-**Exploring:**
-
-* AI-assisted document processing
-* Invoice data extraction
-* Backend APIs
-* Database integration
-* Intelligent automation
-
-🔗 **Repository:**
-https://github.com/singhriteeka/Al-Invoice-Intelligence-System
-
----
-
 ## 🌱 Currently Learning
 
 <div align="center">
@@ -161,38 +142,6 @@ https://github.com/singhriteeka/Al-Invoice-Intelligence-System
 <img src="https://img.shields.io/github/stars/singhriteeka?affiliations=OWNER&style=for-the-badge&logo=github&color=F59E0B" alt="Stars" />
 
 </div>
-
----
-
-# 🌟 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/singhriteeka/Al-Invoice-Intelligence-System">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=singhriteeka&repo=Al-Invoice-Intelligence-System&theme=tokyonight&hide_border=true" alt="AI Invoice Intelligence System" />
-</a>
-
-<a href="https://github.com/singhriteeka/E-learning-platform">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=singhriteeka&repo=E-learning-platform&theme=tokyonight&hide_border=true" alt="E-learning Platform" />
-</a>
-
-</div>
-
-<br />
-
-<div align="center">
-
-<a href="https://github.com/singhriteeka/Makeup">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=singhriteeka&repo=Makeup&theme=tokyonight&hide_border=true" alt="Makeup project" />
-</a>
-
-<a href="https://github.com/singhriteeka">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=singhriteeka&repo=School-Management-System&theme=tokyonight&hide_border=true" alt="School Management System" />
-</a>
-
-</div>
-
-> **Note:** Replace `School-Management-System` above if your actual repository has a different name.
 
 ---
 

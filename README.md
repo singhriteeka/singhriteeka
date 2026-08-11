@@ -6,20 +6,20 @@
 
 <p>
   <a href="https://github.com/singhriteeka">
-    <img src="https://img.shields.io/github/followers/singhriteeka?label=Followers&style=for-the-badge&logo=github&color=0B1F3A" alt="GitHub followers" />
+    <img src="https://img.shields.io/github/followers/singhriteeka?label=Followers&style=for-the-badge&logo=github&color=181717" alt="GitHub followers" />
   </a>
   <a href="https://github.com/singhriteeka?tab=repositories">
-    <img src="https://img.shields.io/github/stars/singhriteeka?affiliations=OWNER&style=for-the-badge&logo=github&color=123C69" alt="GitHub stars" />
+    <img src="https://img.shields.io/github/stars/singhriteeka?affiliations=OWNER&style=for-the-badge&logo=github&color=181717" alt="GitHub stars" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=singhriteeka&label=Profile%20Views&color=1E5AA8&style=for-the-badge" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=singhriteeka&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile views" />
 </p>
 
 <p>
   <a href="https://github.com/singhriteeka">
-    <img src="https://img.shields.io/badge/GitHub-singhriteeka-071A2F?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-singingriteeka-181717?style=flat-square&logo=github" alt="GitHub" />
   </a>
   <a href="https://riteeka-3d-portfolio-4gmy.arcada.app">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-123C69?style=flat-square&logo=google-chrome&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-7C3AED?style=flat-square&logo=google-chrome&logoColor=white" alt="Portfolio" />
   </a>
 </p>
 
@@ -66,25 +66,25 @@ I enjoy turning ideas into real products — from frontend interfaces and dashbo
 ### 💻 Languages
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,java,php&theme=dark" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,java,php" alt="Languages" />
 </p>
 
 ### 🎨 Frontend
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,vue&theme=dark" alt="Frontend technologies" />
+  <img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,vue" alt="Frontend technologies" />
 </p>
 
 ### ⚙️ Backend & Databases
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgresql&theme=dark" alt="Backend and databases" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgresql" alt="Backend and databases" />
 </p>
 
 ### 🔧 Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" alt="Development tools" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" alt="Development tools" />
 </p>
 
 ---
@@ -94,15 +94,15 @@ I enjoy turning ideas into real products — from frontend interfaces and dashbo
 <div align="center">
 
 <img
-width="48%"
-src="https://github-stats-extended.vercel.app/api?username=singhriteeka&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&theme=tokyonight"
-alt="GitHub Analytics"
+  width="48%"
+  src="https://github-stats-extended.vercel.app/api?username=singhriteeka&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&theme=tokyonight"
+  alt="GitHub Analytics"
 />
 
 <img
-width="48%"
-src="https://github-stats-extended.vercel.app/api/top-langs/?username=singhriteeka&layout=compact&langs_count=8&hide_border=true&theme=tokyonight"
-alt="Top Languages"
+  width="48%"
+  src="https://github-stats-extended.vercel.app/api/top-langs/?username=singhriteeka&layout=compact&langs_count=8&hide_border=true&theme=tokyonight"
+  alt="Top Languages"
 />
 
 </div>
@@ -113,10 +113,7 @@ alt="Top Languages"
 
 <div align="center">
 
-<img
-src="https://streak-stats.demolab.com?user=singhriteeka&theme=tokyonight&hide_border=true"
-alt="GitHub contribution streak"
-/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=singhriteeka&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
 
 </div>
 
@@ -126,10 +123,7 @@ alt="GitHub contribution streak"
 
 <div align="center">
 
-<img
-src="https://github-readme-activity-graph.vercel.app/graph?username=singhriteeka&theme=tokyo-night&hide_border=true&area=true&custom_title=Riteeka%27s%20Contribution%20Graph"
-alt="GitHub contribution graph"
-/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=singhriteeka&theme=tokyo-night&hide_border=true&area=true&custom_title=Riteeka's%20Contribution%20Graph" alt="GitHub contribution graph" />
 
 </div>
 
@@ -139,10 +133,7 @@ alt="GitHub contribution graph"
 
 <div align="center">
 
-<img
-src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=singhriteeka&theme=github_dark"
-alt="GitHub profile summary"
-/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=singhriteeka&theme=tokyonight" alt="GitHub profile summary" />
 
 </div>
 
@@ -152,20 +143,11 @@ alt="GitHub profile summary"
 
 <div align="center">
 
-<img
-src="https://img.shields.io/badge/Public%20Repositories-GitHub-0B1F3A?style=for-the-badge&logo=github&logoColor=white"
-alt="Public repositories"
-/>
+<img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/singhriteeka&query=$.public_repos&label=Public%20Repositories&style=for-the-badge&logo=github&color=181717" alt="Public repositories" />
 
-<img
-src="https://img.shields.io/github/followers/singhriteeka?label=Followers&style=for-the-badge&logo=github&color=123C69"
-alt="Followers"
-/>
+<img src="https://img.shields.io/github/followers/singhriteeka?label=Followers&style=for-the-badge&logo=github&color=7C3AED" alt="Followers" />
 
-<img
-src="https://img.shields.io/github/stars/singhriteeka?affiliations=OWNER&style=for-the-badge&logo=github&color=1E5AA8"
-alt="Stars"
-/>
+<img src="https://img.shields.io/github/stars/singhriteeka?affiliations=OWNER&style=for-the-badge&logo=github&color=F59E0B" alt="Stars" />
 
 </div>
 
@@ -202,11 +184,11 @@ alt="Stars"
 <div align="center">
 
 <a href="https://github.com/singhriteeka">
-  <img src="https://img.shields.io/badge/GitHub-071A2F?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 
 <a href="https://riteeka-3d-portfolio-4gmy.arcada.app">
-  <img src="https://img.shields.io/badge/Portfolio-123C69?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+  <img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
 </a>
 
 </div>
@@ -217,9 +199,6 @@ alt="Stars"
 
 ### 💻 Keep Building. Keep Learning. Keep Improving. 🚀
 
-<img
-src="https://capsule-render.vercel.app/api?type=waving&color=0B1F3A&height=100&section=footer"
-alt="Footer"
-/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer" />
 
 </div>

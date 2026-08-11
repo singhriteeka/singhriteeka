@@ -93,16 +93,16 @@ I enjoy turning ideas into real products — from frontend interfaces and dashbo
 
 <div align="center">
 
-<img 
-width="48%" 
-src="https://github-stats-extended.vercel.app/api?username=singhriteeka&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&theme=tokyonight" 
-alt="GitHub Analytics"
+<img
+  width="48%"
+  src="https://github-stats-extended.vercel.app/api?username=singhriteeka&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&theme=tokyonight"
+  alt="GitHub Analytics"
 />
 
-<img 
-width="48%" 
-src="https://github-stats-extended.vercel.app/api/top-langs/?username=singhriteeka&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" 
-alt="Top Languages"
+<img
+  width="48%"
+  src="https://github-stats-extended.vercel.app/api/top-langs/?username=singhriteeka&layout=compact&langs_count=8&hide_border=true&theme=tokyonight"
+  alt="Top Languages"
 />
 
 </div>
